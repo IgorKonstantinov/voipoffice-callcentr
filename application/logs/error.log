@@ -1,0 +1,20 @@
+[Tue May 27 18:31:12 2014] [error] [client 127.0.0.1] PHP Notice:  Array to string conversion in /usr/share/phpmyadmin/libraries/Error.class.php on line 180, referer: http://localhost/phpmyadmin/index.php?token=b2c56ce5726f22de098df2ad0b2b4a5f
+[Tue May 27 18:39:58 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:39:58 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:39:58 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:41:13 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:45:00 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:48:21 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:49:14 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:53:54 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:53:56 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:54:26 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:54:52 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 18:55:03 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 19:00:37 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Cookie' not found in /data/var/www/CallCenter.dev/application/bootstrap.php on line 30
+[Tue May 27 19:59:10 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Request::redirect() in /data/var/www/CallCenter.dev/application/classes/Controller/Main.php on line 14
+[Tue May 27 20:13:44 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Request::redirect() in /data/var/www/CallCenter.dev/application/classes/Controller/Main.php on line 15
+[Tue May 27 20:29:07 2014] [alert] [client 127.0.0.1] /data/var/www/CallCenter.dev/.htaccess: Invalid command 'ads', perhaps misspelled or defined by a module not included in the server configuration
+[Tue May 27 20:42:14 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Controller_Main' not found in /data/var/www/CallCenter.dev/application/classes/Controller/Welcome.php on line 3
+[Tue May 27 21:06:22 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Database_Mysql' not found in /data/var/www/CallCenter.dev/modules/database/classes/Kohana/Database.php on line 78, referer: http://callcenter.dev/auth/login
+[Wed May 28 11:12:29 2014] [error] [client 127.0.0.1] PHP Notice:  Array to string conversion in /usr/share/phpmyadmin/libraries/Error.class.php on line 180, referer: http://localhost/phpmyadmin/index.php?db=sm_db&table=users&token=33014915a5be63305fc17744330acf27
